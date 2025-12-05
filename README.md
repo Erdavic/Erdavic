@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
 
 # 👨‍💻 Ernesto Casaverde De La Cruz
@@ -9,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Clean+Code+Advocate;Tech+Leader;Mobile+First+Developer">
 </picture>
 
-> *Construyendo software escalable y experiencias móviles fluidas.*
+> *Building scalable software and fluid mobile experiences.*
 
 <br/>
 
@@ -17,33 +15,33 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Ernesto%20Casaverde-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-📍 **Lima, Perú** | 🎓 **Ingeniería de Software @ UPC**
+📍 **Lima, Peru** | 🎓 **Software Engineering @ UPC**
 
 </div>
 
 ---
 
-## ⚡ Lo que hago
+## ⚡ What I Do
 
-Soy un **desarrollador apasionado** por el **Clean Code** y las arquitecturas robustas (**DDD, C4 Model**). Me encanta **liderar equipos técnicos** y transformar requerimientos complejos en soluciones eficientes.
+I'm a **passionate developer** focused on **Clean Code** and robust architectures (**DDD, C4 Model**). I love **leading technical teams** and transforming complex requirements into efficient solutions.
 
 <div align="center">
 
 | 📱 Mobile First | 🌐 Backend Power | ☁️ Cloud & DevOps |
 |:---:|:---:|:---:|
-| Experto en crear interfaces reactivas con **Flutter** y **Android Jetpack** | Construcción de APIs RESTful seguras con **Spring Boot** y **.NET** | Despliegue y gestión en **Azure** y contenedores **Docker** |
+| Expert in creating reactive interfaces with **Flutter** and **Android Jetpack** | Building secure RESTful APIs with **Spring Boot** and **.NET** | Deployment and management on **Azure** and **Docker** containers |
 
 </div>
 
 ---
 
-## 💻 Arsenal Tecnológico
+## 💻 Technology Arsenal
 
 <table align="center">
 <tr>
 <td align="center" width="200">
 <div>
-<h3>🔤 Lenguajes</h3>
+<h3>🔤 Languages</h3>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" />
@@ -85,7 +83,7 @@ Soy un **desarrollador apasionado** por el **Clean Code** y las arquitecturas ro
 <tr>
 <td colspan="2" align="center" width="400">
 <div>
-<h3>🗄️ Base de Datos</h3>
+<h3>🗄️ Databases</h3>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -109,9 +107,9 @@ Soy un **desarrollador apasionado** por el **Clean Code** y las arquitecturas ro
 
 ---
 
-## 📈 Impacto Real
+## 📈 Real Impact
 
-### Logros como Líder Técnico
+### Achievements as Tech Leader
 
 <div align="center">
 
@@ -120,19 +118,19 @@ Soy un **desarrollador apasionado** por el **Clean Code** y las arquitecturas ro
 <td align="center" width="300">
 <div>
 <h3>🚀 +25% UX Improvement</h3>
-<p>Mejora significativa de UX mediante componentes dinámicos reactivos en Vue.js, optimizando la experiencia del usuario en interfaces complejas.</p>
+<p>Significant UX improvement through reactive dynamic components in Vue.js, optimizing user experience in complex interfaces.</p>
 </div>
 </td>
 <td align="center" width="300">
 <div>
-<h3>📉 30% Menos Incidencias</h3>
-<p>Reducción de incidencias en producción gracias a una arquitectura sólida, escalable y bien documentada con patrones SOLID.</p>
+<h3>📉 30% Fewer Incidents</h3>
+<p>Reduction of production incidents thanks to solid, scalable architecture and well-documented SOLID patterns.</p>
 </div>
 </td>
 <td align="center" width="300">
 <div>
-<h3>⚡ +35% Eficiencia</h3>
-<p>Mayor eficiencia en manejo de información con algoritmos avanzados y optimización de procesos de datos complejos.</p>
+<h3>⚡ +35% Efficiency</h3>
+<p>Increased efficiency in information handling with advanced algorithms and complex data processing optimization.</p>
 </div>
 </td>
 </tr>
@@ -142,7 +140,7 @@ Soy un **desarrollador apasionado** por el **Clean Code** y las arquitecturas ro
 
 ---
 
-## 🎯 Filosofía de Desarrollo
+## 🎯 Development Philosophy
 
 <div align="center">
 
@@ -158,15 +156,15 @@ Soy un **desarrollador apasionado** por el **Clean Code** y las arquitecturas ro
 
 </div>
 
-- ✅ **Clean Code**: Código legible, mantenible y escalable
-- ✅ **Arquitectura Robusta**: DDD y patrones C4
-- ✅ **Leadership**: Liderazgo técnico y mentoring
-- ✅ **Innovation**: Siempre explorando nuevas tecnologías
-- ✅ **Quality**: Testing y buenas prácticas
+- ✅ **Clean Code**: Readable, maintainable and scalable code
+- ✅ **Robust Architecture**: DDD and C4 patterns
+- ✅ **Leadership**: Technical leadership and mentoring
+- ✅ **Innovation**: Always exploring new technologies
+- ✅ **Quality**: Testing and best practices
 
 ---
 
-## 📊 Estadísticas de Actividad
+## 📊 Activity Statistics
 
 <div align="center">
 
@@ -178,26 +176,26 @@ Soy un **desarrollador apasionado** por el **Clean Code** y las arquitecturas ro
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
 <div align="center">
 
-| Proyecto | Descripción | Stack |
+| Project | Description | Stack |
 |:---|:---|:---:|
-| 🏢 **Arquitectura Escalable** | Sistema distribuido con microservicios | Spring Boot, Docker, Kubernetes |
-| 📱 **App Mobile** | Aplicación multiplataforma de alto rendimiento | Flutter, Firebase |
-| 🌐 **Dashboard Dinámico** | Panel de control en tiempo real | Vue.js, WebSocket |
-| ☁️ **Infraestructura Cloud** | Despliegue automatizado y CI/CD | Azure, Docker, GitHub Actions |
+| 🏢 **Scalable Architecture** | Distributed system with microservices | Spring Boot, Docker, Kubernetes |
+| 📱 **Mobile App** | High-performance cross-platform application | Flutter, Firebase |
+| 🌐 **Dynamic Dashboard** | Real-time control panel | Vue.js, WebSocket |
+| ☁️ **Cloud Infrastructure** | Automated deployment and CI/CD | Azure, Docker, GitHub Actions |
 
 </div>
 
 ---
 
-## 💬 Contacto & Redes
+## 💬 Contact & Social
 
 <div align="center">
 
-¿Interesado en colaborar o tener una conversación? ¡Conectemos!
+Interested in collaborating or having a conversation? Let's connect!
 
 <a href="https://www.linkedin.com/in/Ernesto-Casaverde">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -213,15 +211,15 @@ Soy un **desarrollador apasionado** por el **Clean Code** y las arquitecturas ro
 
 ---
 
-## 🎓 En Constante Aprendizaje
+## 🎓 Continuous Learning
 
 <div align="center">
 
-Actualmente explorando y profundizando en:
+Currently exploring and diving deeper into:
 
-- 🔬 **Machine Learning** y AI
+- 🔬 **Machine Learning** and AI
 - 🎮 **Game Development**
-- 🏗️ **System Design** avanzado
+- 🏗️ **Advanced System Design**
 - 📡 **Distributed Systems**
 - 🔐 **Cybersecurity**
 
@@ -231,7 +229,7 @@ Actualmente explorando y profundizando en:
 
 <div align="center">
 
-### ✨ Let's code something amazing!
+### ✨ Let's Code Something Amazing!
 
 ```
 > console.log("Building scalable solutions with passion 🚀");
@@ -239,17 +237,4 @@ Actualmente explorando y profundizando en:
 
 <sub>Made with ❤️ by Ernesto Casaverde | 2025</sub>
 
-</div><!--
-**Erdavic/Erdavic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
